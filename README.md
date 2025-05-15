@@ -16,3 +16,8 @@ Domain: Data Analysis using Python, Pandas, Matplotlib & Seaborn
 
 ![image](https://github.com/user-attachments/assets/dd35ad0e-ae32-4931-b028-3d6f666f4365)
 
+![image](https://github.com/user-attachments/assets/fd3f79db-eb68-4885-bb13-19c4ab5122a8)
+
+
+![image](https://github.com/user-attachments/assets/32cbf081-5236-4b11-91ec-a75b0cf8865c)
+
